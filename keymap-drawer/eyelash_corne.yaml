@@ -7,12 +7,12 @@ layers:
   - R
   - T
   - $$mdi:arrow-up-bold$$
-  - Y
-  - U
+  - {t: '$$mdi:backspace$$', type: backspace}
+  - {t: '$$mdi:backspace$$', type: backspace}
   - I
   - O
   - P
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - Y
   - '&td0'
   - A
   - S
